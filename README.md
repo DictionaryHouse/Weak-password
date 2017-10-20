@@ -1,0 +1,2 @@
+# Weak-password
+Weak password
